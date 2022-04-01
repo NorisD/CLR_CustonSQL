@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ClrAgregate", "ClrAgregateColor\ClrAgregate.sqlproj", "{1C2A9BEC-DF64-46F9-A3D2-A80B5B321E42}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ClrScalarfunc", "ClrUserDateType\ClrScalarfunc.sqlproj", "{A4E6F32B-3516-4C0E-8E6E-F7AE0D356C95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C2A9BEC-DF64-46F9-A3D2-A80B5B321E42}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2A9BEC-DF64-46F9-A3D2-A80B5B321E42}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{1C2A9BEC-DF64-46F9-A3D2-A80B5B321E42}.Debug|Any CPU.Deploy.0 = Release|Any CPU
+		{1C2A9BEC-DF64-46F9-A3D2-A80B5B321E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2A9BEC-DF64-46F9-A3D2-A80B5B321E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2A9BEC-DF64-46F9-A3D2-A80B5B321E42}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A4E6F32B-3516-4C0E-8E6E-F7AE0D356C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E6F32B-3516-4C0E-8E6E-F7AE0D356C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E6F32B-3516-4C0E-8E6E-F7AE0D356C95}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A4E6F32B-3516-4C0E-8E6E-F7AE0D356C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E6F32B-3516-4C0E-8E6E-F7AE0D356C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E6F32B-3516-4C0E-8E6E-F7AE0D356C95}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDB0D5A3-68CC-48D1-8496-AC3DB7E76F2B}
+	EndGlobalSection
+EndGlobal
